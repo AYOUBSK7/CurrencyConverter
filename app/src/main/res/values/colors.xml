@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs de la maquette -->
+    <color name="fond_affichage">#2BB8E8</color>      <!-- zone du haut : bleu turquoise uni -->
+    <color name="fond_clavier">#F7F9FB</color>        <!-- zone du bas : fond clair -->
+    <color name="touche_chiffre">#1BA6C9</color>      <!-- chiffres et point : bleu turquoise -->
+    <color name="touche_effacer">#F0727A</color>      <!-- touche C : rouge clair -->
+    <color name="texte_affichage">#FFFFFF</color>     <!-- textes de la zone du haut -->
+    <color name="fond_bouton_convertir">#FFFFFF</color>
+    <color name="texte_bouton_convertir">#1BA6C9</color>
+    <color name="texte_liste_deroulante">#1F2A33</color>
+    <color name="ripple_touche">#331BA6C9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème AppCompat sans barre d'action : l'écran unique gère son propre titre. -->
+    <style name="Theme.CurrencyConverter" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/fond_affichage</item>
+        <item name="colorPrimaryDark">@color/fond_affichage</item>
+        <item name="colorAccent">@color/touche_chiffre</item>
+        <item name="android:statusBarColor">@color/fond_affichage</item>
+        <item name="android:windowBackground">@color/fond_clavier</item>
+    </style>
+
+</resources>

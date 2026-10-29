@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Soulignement blanc sous le montant et le résultat :
+     on décale les côtés gauche, haut et droit hors de la vue pour ne garder que la bordure basse. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/decalage_soulignement"
+        android:right="@dimen/decalage_soulignement"
+        android:top="@dimen/decalage_soulignement">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:width="@dimen/epaisseur_soulignement"
+                android:color="@color/texte_affichage" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marge_ecran">24dp</dimen>
+    <dimen name="marge_petite">8dp</dimen>
+    <dimen name="marge_moyenne">16dp</dimen>
+    <dimen name="taille_titre">20sp</dimen>
+    <dimen name="taille_montant">48sp</dimen>
+    <dimen name="taille_montant_min">20sp</dimen>
+    <dimen name="hauteur_montant">64dp</dimen>
+    <dimen name="largeur_liste_devise">110dp</dimen>
+    <dimen name="taille_devise">20sp</dimen>
+    <dimen name="taille_touche">32sp</dimen>
+    <dimen name="taille_bouton_inverser">48dp</dimen>
+    <dimen name="largeur_bouton_convertir">200dp</dimen>
+    <dimen name="hauteur_bouton_convertir">48dp</dimen>
+    <dimen name="rayon_bouton_convertir">24dp</dimen>
+    <dimen name="epaisseur_soulignement">2dp</dimen>
+    <dimen name="decalage_soulignement">-4dp</dimen>
+</resources>

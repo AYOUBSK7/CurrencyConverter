@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bouton « Convertir » en forme de pilule, avec effet d'appui (ripple). -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/ripple_touche">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/fond_bouton_convertir" />
+            <corners android:radius="@dimen/rayon_bouton_convertir" />
+        </shape>
+    </item>
+</ripple>
