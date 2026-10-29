@@ -15,6 +15,6 @@ Application qui convertit un montant entre 6 devises (USD, EUR, TND, GBP, JPY, C
 
 ## Captures
 
-| Démarrage | 120 USD → EUR | 50 GBP → USD | 50 EUR → EUR |
-|:-:|:-:|:-:|:-:|
-| <img src="image/Screenshot_20261029_174016.png" width="160"> | <img src="image/Screenshot_20261029_174803.png" width="160"> | <img src="image/Screenshot_20261029_174943.png" width="160"> | <img src="image/Screenshot_20261029_175016.png" width="160"> |
+| Démarrage | 120 USD → EUR | 120 USD → TND | 50 GBP → USD | 50 EUR → EUR |
+|:-:|:-:|:-:|:-:|:-:|
+| <img src="image/1_demarrage.png" width="150"> | <img src="image/2_usd_eur.png" width="150"> | <img src="image/3_usd_tnd.png" width="150"> | <img src="image/4_gbp_usd.png" width="150"> | <img src="image/5_eur_eur.png" width="150"> |
